@@ -3,3 +3,5 @@ function sayHi(who) {
 }
 
 sayHi('Monk');
+
+module.exports = sayHi;
